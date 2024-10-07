@@ -10,10 +10,7 @@ Dental caries, commonly known as tooth decay or cavities, is a widespread oral h
 - **User-friendly Interface**: Easy-to-use dashboard for dental professionals to analyze results and generate reports.
 
 ## Technologies Used
-- **Python**: Core programming language for data processing and AI model implementation.
-- **OpenCV**: Library for image processing and enhancement.
-- **TensorFlow/PyTorch**: Framework for building AI-based caries detection models.
-- **Flask/Django**: Backend frameworks for developing a web-based interface for the project.
+-
 - **HTML/CSS/JavaScript**: For building the frontend UI.
 
 ## How to Run the Project
